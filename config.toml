@@ -1,6 +1,6 @@
-baseURL = "https://gracekitchen.netlify.app/"
+baseURL = "https://gracerecipes.netlify.app/"
 languageCode = "en-us"
-title = "GRACE KITCHEN"
+title = "GRACE RECIPES"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "Make your cooking more easy"
   topdescription = "Make your cooking more easy"
-  toptitle = "GRACE KITCHEN"
+  toptitle = "GRACE RECIPES"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Grace"
-    homepage = "https://gracekitchen.netlify.app/"
+    homepage = "https://gracerecipes.netlify.app/"
     bio = "cooking lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
